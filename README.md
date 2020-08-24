@@ -2,10 +2,10 @@
 
 ### I'm an iOS Developer!
 
-- I’m currently working on a Wishlist App!
-- I’m currently learning how to improve my Swift Programming Language knowledge
-- In future I really want to learn <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React Framework
-- 2020 Goals: Contribute more to Open Source projects
+- #I’m currently working on a Wishlist App!
+- #I’m currently learning how to improve my Swift Programming Language knowledge
+- #In future I really want to learn <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React Framework
+- #2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
