@@ -9,15 +9,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kamil Skrzynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kamil Skrzynski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 <img align="left" alt="Swift" width="26px" src="https://user-images.githubusercontent.com/56888971/91076144-587aea80-e63f-11ea-9470-5957089b4368.png" />
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/56888971/91076143-587aea80-e63f-11ea-91ce-c776922160bb.png" />
-<img align="left" alt="XCoode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/56888971/91076532-f53d8800-e63f-11ea-8906-e9e5330419c2.png" />
+<img align="left" alt="XCode" width="26px" src="https://user-images.githubusercontent.com/56888971/91076535-f5d61e80-e63f-11ea-88db-e092bee76153.png" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://user-images.githubusercontent.com/56888971/91076142-5749bd80-e63f-11ea-8e3d-1864e73b7e87.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
