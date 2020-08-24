@@ -37,4 +37,4 @@
 [instagram]: https://instagram.com/kamil.skrzynski
 [linkedin]: https://www.linkedin.com/in/kamil-skrzy%C5%84ski-107063195/
 [Codepen]: https://codepen.io/kamilskrzynski/pens/public/
-[Gmail]: kamilskrzynski95@gmail.com
+[Gmail]: mailto:kamilskrzynski95@gmail.com?subject=[GitHub]%20KamilSkrzynski
