@@ -11,6 +11,7 @@
 
 [<img align="left" alt="Kamil Skrzynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kamil Skrzynski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kamil Skrzynski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codepen.svg" />][Codepen]
 
 <br />
 
@@ -35,3 +36,4 @@
 
 [instagram]: https://instagram.com/kamil.skrzynski
 [linkedin]: https://www.linkedin.com/in/kamil-skrzy%C5%84ski-107063195/
+[Codepen]: https://codepen.io/kamilskrzynski/pens/public/
