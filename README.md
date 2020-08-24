@@ -1,4 +1,4 @@
-<center> ## Hi there, I'm Kamil Skrzyński 👋</center>
+## Hi there, I'm Kamil Skrzyński 👋
 
 ### I'm an iOS Developer!
 
