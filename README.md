@@ -1,8 +1,9 @@
-## Hi there, I'm Kamil Skrzyński 👋
+![](https://badges.pufler.dev/visits/KamilSkrzynski/KamilSkrzynski?color=black&logo=github)
+
+## Hi there, I'm Kamil 👋
 
 ### I'm an iOS Developer!
 
-- I’m currently working on a Wishlist App!
 
 ### Connect with me:
 
