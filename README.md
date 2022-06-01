@@ -29,3 +29,11 @@
 [linkedin]: https://www.linkedin.com/in/kamil-skrzy%C5%84ski-107063195/
 [Codepen]: https://codepen.io/kamilskrzynski/pens/public/
 [Gmail]: mailto:kamilskrzynski95@gmail.com?subject=[GitHub]%20KamilSkrzynski
+
+##Portfolio
+###Crypto Tracker App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&repo=CryptoTracker)](https://github.com/KamilSkrzynski/CryptoTracker)
+###Basic Calculator App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&repo=Calculator)](https://github.com/KamilSkrzynski/Calculator)
+###Habit Tracker App
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&repo=HabitTracker)](https://github.com/KamilSkrzynski/HabitTracker)
