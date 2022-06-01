@@ -35,4 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSkrzynski&theme=dark)](https://github.com/KamilSkrzynski/KamilSkrzynski)
 
 ### Portfolio repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamilskrzynski&show_owner=true&theme=dark&repo=portfolio-apps)]((https://github.com/kamilskrzynski/portfolio-apps))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamilskrzynski&show_owner=true&theme=dark&repo=portfolio-apps)](https://github.com/kamilskrzynski/portfolio-apps)
