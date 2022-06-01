@@ -34,10 +34,5 @@
 ![KamilSkrzynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilSkrzynski&theme=dark&show_icons=true) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSkrzynski&theme=dark)](https://github.com/KamilSkrzynski/KamilSkrzynski)
 
-## Portfolio
-#### Crypto Tracker App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&show_owner=true&theme=dark&repo=CryptoTracker)](https://github.com/KamilSkrzynski/CryptoTracker)
-#### Basic Calculator App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&show_owner=true&theme=dark&repo=Calculator)](https://github.com/KamilSkrzynski/Calculator)
-#### Habit Tracker App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamilSkrzynski&show_owner=true&theme=dark&repo=HabitTracker)](https://github.com/KamilSkrzynski/HabitTracker)
+### Portfolio repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamilskrzynski&show_owner=true&theme=dark&repo=portfolio-apps)]((https://github.com/kamilskrzynski/portfolio-apps))
