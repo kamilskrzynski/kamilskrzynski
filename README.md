@@ -8,8 +8,6 @@
 <br />
 <br />
 
-## Stats
-![KamilSkrzynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilSkrzynski&theme=dark&show_icons=true) <br />
-
-### Portfolio repository
+## Portfolio repository
+You can check my portfolio apps using link down below<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamilskrzynski&show_owner=true&theme=dark&repo=portfolio-apps)](https://github.com/kamilskrzynski/portfolio-apps)
