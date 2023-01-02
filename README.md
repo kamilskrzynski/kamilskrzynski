@@ -84,6 +84,20 @@ Architecture:
 <br>
 <br>
 
+### [Dall-E OpenAI Image Generator](https://github.com/kamilskrzynski/ai-image-generator)
+
+**Simple Image Generator App using SwiftUI, Async/Await and OpenAI API**
+
+![Image Generator](/images/open-ai-image-generator.png)
+
+Techonologies:
+  * **SwiftUI**
+  * **Async/Await**
+  * **OpenAI API**
+
+<br>
+<br>
+
 ### [Calculator APP](https://github.com/kamilskrzynski/calculator)
 
 **Clone of Apple's built-in Calculator App on iPhones**
