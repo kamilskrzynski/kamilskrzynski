@@ -38,6 +38,22 @@ Design and fuctionality:
 <br />
 <br />
 
+### [What time is it](https://github.com/kamilskrzynski/what-time-is-it)
+
+**Simple app showing current time for specific timezone inspired by [Time.is](https://www.time.is) and it is using [Timeapi.io API](https://www.timeapi.io/).**
+
+![What time is it](/images/what-time-is-it.png)
+
+Technologies:
+  * **SwiftUI**
+  * **API Call**
+
+Architecture:
+ * **MVVM**
+
+<br />
+<br />
+
 ### [SF Symbols](https://github.com/kamilskrzynski/sfsymbols)
 App to browse through all available Apple's SF Symbols.
 
