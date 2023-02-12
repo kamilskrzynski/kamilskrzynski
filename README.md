@@ -113,13 +113,3 @@ Techonologies:
 
 <br>
 <br>
-
-### [Calculator APP](https://github.com/kamilskrzynski/calculator)
-
-**Clone of Apple's built-in Calculator App on iPhones**
-
-![Calculator](/images/calculator.png)
-
-Techonologies:
-  * **SwiftUI**
-
