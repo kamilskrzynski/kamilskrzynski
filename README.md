@@ -1,5 +1,3 @@
-![](https://badges.pufler.dev/visits/KamilSkrzynski/KamilSkrzynski?color=black&logo=github)
-
 ## Hi there, I'm Kamil 👋
 
 **I am a passionate self-taught iOS Developer from Poland.** <br />
