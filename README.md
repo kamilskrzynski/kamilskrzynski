@@ -44,7 +44,7 @@ Design and fuctionality:
 
 Technologies:
   * **SwiftUI**
-  * **API Call**
+  * **API networking**
 
 Architecture:
  * **MVVM**
@@ -53,7 +53,7 @@ Architecture:
 <br />
 
 ### [SF Symbols](https://github.com/kamilskrzynski/sfsymbols)
-App to browse through all available Apple's SF Symbols.
+App to browse through all available Apple's SF Symbols. The app idea was found at [atrinh0's github](https://github.com/atrinh0).
 
 ### Some screenshots
 ![SFSymbols](/images/sf-symbols.png)
