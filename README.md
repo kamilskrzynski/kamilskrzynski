@@ -36,6 +36,20 @@ Design and fuctionality:
 <br />
 <br />
 
+### [Wordle](https://github.com/kamilskrzynski/wordle-app)
+
+**Recreation of well known web-app called Wordle made with UIKit**
+
+![Wordle](/images/wordle.png)
+
+Technologies:
+  * **UIKit**
+  * **Delegates and protocols**
+  * **autolayout**
+
+<br />
+<br />
+
 ### [What time is it](https://github.com/kamilskrzynski/what-time-is-it)
 
 **Simple app showing current time for specific timezone inspired by [Time.is](https://www.time.is) and it is using [Timeapi.io API](https://www.timeapi.io/).**
