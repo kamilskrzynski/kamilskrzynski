@@ -5,9 +5,9 @@
 
 **Contact me by links below**
 
-<a href="https://twitter.com/kskrzynski_dev"><img src="https://img.icons8.com/ios-filled/48/555555/twitter-squared.png"/></a> <br />
-<a href="https://www.linkedin.com/in/kamil-skrzynski/"><img src="https://img.icons8.com/ios-filled/50/555555/linkedin.png"/></a> <br />
-<a href="https://apps.apple.com/pl/developer/kamil-skrzynski/id1570456594?l=pl"><img src="https://img.icons8.com/ios-filled/50/555555/apple-app-store--v2.png"/></a>
+[<img src="/images/mail.png" width=80 height=80>](mailto:kamilskrzynski95@gmail.com)
+[<img src="/images/x.png" width=80 height=80>](https://x.com/kskrzynski_dev)
+[<img src="/images/linkedin.png" width=80 height=80>](https://www.linkedin.com/in/kamil-skrzynski/)
 <br />
 <br />
 
