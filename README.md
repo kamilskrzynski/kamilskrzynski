@@ -1,8 +1,3 @@
-## Hi there, I'm Kamil 👋
-
-**I am a passionate self-taught iOS Developer from Poland.** <br />
-**I love to make apps that will help people grow and ease their life.** <br />
-
 **Contact me by links below**
 
 [<img src="/images/mail.png" width=60 height=60>](mailto:kamilskrzynski95@gmail.com)
