@@ -89,24 +89,6 @@ Architecture:
 <br />
 <br />
 
-### [Habit Tracker](https://github.com/kamilskrzynski/habit-tracker)
-
-**Simple Habit Tracker APP with clean UI**
-
-![Habit Tracker](/images/habit-tracker.png)
-
-Technologies:
-  * **SwiftUI**
-  * **UserDefaults**
-  * **JSONDecoder**
-  * **JSONEncoder**
-
-Architecture:
- * **MVVM**
-
-<br>
-<br>
-
 ### [Dall-E OpenAI Image Generator](https://github.com/kamilskrzynski/ai-image-generator)
 
 **Simple Image Generator App using SwiftUI, Async/Await and OpenAI API**
