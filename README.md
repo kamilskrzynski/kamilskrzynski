@@ -86,15 +86,6 @@ Technologies:
 Architecture:
  * **MVVM**
 
-<br />
-<br />
-
-### [Dall-E OpenAI Image Generator](https://github.com/kamilskrzynski/ai-image-generator)
-
-**Simple Image Generator App using SwiftUI, Async/Await and OpenAI API**
-
-![Image Generator](/images/open-ai-image-generator.png)
-
 Techonologies:
   * **SwiftUI**
   * **Async/Await**
