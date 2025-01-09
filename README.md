@@ -2,8 +2,7 @@
 
 [<img src="/images/mail.png" width=60 height=60>](mailto:kamilskrzynski95@gmail.com)
 [<img src="/images/x.png" width=60 height=60>](https://x.com/kskrzynski_dev)
-[<img src="/images/linkedin.png" width=60 height=60>](https://www.linkedin.com/in/kamil-skrzynski/)
-<br />
+<!-- [<img src="/images/linkedin.png" width=60 height=60>](https://www.linkedin.com/in/kamil-skrzynski/) -->
 <br />
 
 ## Portfolio
